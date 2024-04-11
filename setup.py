@@ -1,10 +1,10 @@
 from setuptools import find_packages, setup
 
 setup(
-    name = 'wasteDetection',
+    name = 'ObjectWasteDetection',
     version= '0.0.0',
-    author= 'Boktiar Ahmed Bappy',
-    author_email= 'entbappy73@gmail.com',
+    author= 'Arpan Bhattacharya',
+    author_email= 'abarpanacharyabhatt@gmail.com',
     packages= find_packages(),
     install_requires = []
 

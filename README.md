@@ -1,14 +1,6 @@
-# End-to-end-Waste-Detection-Using-Yolo-v5
+# End-to-end-Object-Detection-Using-Yolo-v5
 
-Implementation video: https://youtu.be/cr17R0fyVXc?si=DXGcm90BoeZwgCU5
 
-## Workflows
-
-1. constants
-2. entity
-3. components
-4. pipelines
-5. app.py
 
 
 # How to run?
@@ -17,7 +9,7 @@ Implementation video: https://youtu.be/cr17R0fyVXc?si=DXGcm90BoeZwgCU5
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-waste-detection
+https://github.com/acharyabhatt/Object-Detection-Project.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
